@@ -7,7 +7,8 @@ const mex = new Vue (
     {
         el: '#mex',
         data: {
-            message: 'Hello Brothers!!'
+            message: 'Hello Brothers!!',
+            
         }
     }
 );
